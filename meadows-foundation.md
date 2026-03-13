@@ -89,9 +89,11 @@ Proposals that align with strategic initiatives receive additional consideration
 5. Board votes at the next scheduled meeting
 6. Notification within 2 weeks of board decision
 
-**Frequency limit:** One proposal per organization per 12-month period. Make it count.
+**Frequency limit:** One proposal per organization per 12-month period -- but "organization" is not precisely defined. See note below.
 
 **Staff support:** Program officers are available by phone (214-826-9431 or 800-826-9431) or email. Informational meetings can be scheduled before applying. They will not write your grant but will discuss fit and process.
+
+**Important note on "one per organization":** The foundation's FAQ states each "organization" is limited to one proposal per 12 months, but does not define whether a university center counts as the same organization as the university. Evidence from 990-PF filings shows the foundation routinely made multiple grants to the same university in the same year -- e.g., SMU received 3 grants in 2012 to different schools, UT Austin received 2 to different centers, and Texas State received 3 to different units. The 2012 Texas Tech grant was routed through the **Texas Tech Foundation** (a separately incorporated 501(c)(3) with its own EIN), not TTU directly. This suggests that named centers, distinct colleges, or affiliated foundations may be treated as separate applicant entities. **Action: Call a program officer and ask directly whether a CECREH proposal counts against TTU's one-per-year limit or is treated as a separate unit.**
 
 ---
 
@@ -237,7 +239,7 @@ This positions CECREH as a statewide resource and aligns with Meadows's history 
 
 5. **Budget for direct services.** Minimize indirect costs and administrative overhead. Show that Meadows dollars go directly to community engagement, research participants, and tool deployment -- not university overhead.
 
-6. **One shot per year.** Texas Tech can only submit one Meadows proposal per 12-month period. Coordinate across departments to ensure the strongest CECREH proposal isn't competing with other TTU requests.
+6. **Clarify the one-per-year rule.** When calling the program officer, ask whether CECREH (or the Texas Tech Foundation) is treated as a separate applicant from TTU. Historical 990 data shows multiple grants to the same university in a single year, and the prior TTU grant was routed through the Texas Tech Foundation. If CECREH is not independent, coordinate across TTU departments to avoid conflicts.
 
 ---
 
