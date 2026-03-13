@@ -16,6 +16,7 @@ CECREH focuses on building capacity for resilient housing through research, tech
 - [Texas and Regional Programs](texas-programs.md) -- Texas-focused and Gulf Coast-specific funding opportunities from state agencies, foundations, and federal pass-throughs
 - [Multi-Proposal Roadmap](roadmap.md) -- Timeline, budget trajectory, and dependency mapping for a phased grant strategy
 - [Comparison Matrix](comparison-matrix.md) -- Side-by-side program comparison for quick reference
+- [Meadows Foundation](meadows-foundation.md) -- Deep dive: funding areas, application process, timeline, CECREH framing, and recommended asks
 
 ## Quick Reference: Top Opportunities
 
